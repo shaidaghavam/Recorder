@@ -94,7 +94,7 @@ public class RecordFragment extends Fragment implements View.OnClickListener {
 
             case R.id.record_btn:
                 //Stop Recording
-                recordBtn.setImageDrawable(getResources().getDrawable(R.drawable.voice_2_, null));
+                recordBtn.setImageDrawable(getResources().getDrawable(R.drawable.voice, null));
                 if (isRecording) {
                     stopRecording();
 
@@ -104,7 +104,7 @@ public class RecordFragment extends Fragment implements View.OnClickListener {
                     if (checkPermission()) {
                         startRecording();
 
-                        recordBtn.setImageDrawable(getResources().getDrawable(R.drawable.voice, null));
+                        recordBtn.setImageDrawable(getResources().getDrawable(R.drawable.voice_2_, null));
                         isRecording = true;
                     }
                 }
