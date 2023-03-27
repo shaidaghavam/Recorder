@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251491489992",
+    "project_id": "ghost-3f8f5",
+    "storage_bucket": "ghost-3f8f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251491489992:android:f6e1a9fac98c306bd2edfd",
+        "android_client_info": {
+          "package_name": "com.example.recorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251491489992-1b7sn3d7bb29sm7g1m28t2cr0c6cabcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR5ffLM5VrOVZeFE83AzO4Gl_Ih5UuGh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251491489992-1b7sn3d7bb29sm7g1m28t2cr0c6cabcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
